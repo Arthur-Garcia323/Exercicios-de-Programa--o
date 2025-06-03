@@ -19,3 +19,14 @@ bash
 ./calculadora.sh
 
 ## Como executar o arquivo `Calculadora_python`
+
+1. Abra o Ubuntu (via WSL ou terminal Linux).
+2 - Navegue até a pasta onde está o arquivo 'calculadora.sh'
+3 - De permissão de execução)
+bash
+chmod +x calculadora.sh
+4 - Execute com:
+bash
+python3 calculadora_python.py
+
+
